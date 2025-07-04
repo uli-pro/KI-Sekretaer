@@ -1,2 +1,2 @@
 # KI-Sekretaer
-First module of ADHS ab - Final Project for CS50
+First module of ADHS app - Final Project for CS50
