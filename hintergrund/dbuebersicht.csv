@@ -1,0 +1,18 @@
+Lebensbereich,Projekt,Aufgabe,Teilschritt
+Name,Name,Name,Name
+Beschreibung,Beschreibung,Beschreibung,Beschreibung
+Farbe,Farbe,Farbe,Farbe
+Rollen,Tags,Tags,Teilschritt Nummer in Reihenfolge
+Relevante Personen mit Rollen,Rolle,benoetigtes Level an Energie (1-3),"Status (offen, begonnen, verschoben, abgeschlossen, abgebrochen)"
+Prioritaet (1-5),Relevante Personen mit Rollen,Ist_wichtig (j/n),"Timestamps_Log (angelegt, begonnen, daran gearbeitet, abgeschlossen"
+Woechentlich verfuegbare Zeit,Ist_wichtig (j/n),ist_dringend(j/n),
+Bevorzugte Tageszeiten,ist_dringend(j/n),"Status (offen, begonnen, verschoben, abgeschlossen, abgebrochen)",
+Texteingaben des Users (unverarbeitet),"Status (offen, begonnen, verschoben, abgeschlossen, abgebrochen)",Aufwand geschaetzt min,
+,Aufwand geschaetzt min,Aufwand geschaetzt max,
+,Aufwand geschaetzt max,Aufwand tatsaechlich (berechnet aus Logs nach Abschluss der Aufgabe),
+,Aufwand tatsaechlich (berechnet aus Logs nach Abschluss der Aufgabe),Deadline,
+,Deadline,Startdatum,
+,Startdatum,"Abhaengigkeit von (Projekt, Aufgabe, Teilschritt)",
+,"Abhaengigkeit von (Projekt, Aufgabe, Teilschritt)","Timestamps_Log (angelegt, begonnen, daran gearbeitet, abgeschlossen",
+,"Timestamps_Log (angelegt, begonnen, daran gearbeitet, abgeschlossen",Texteingaben des Users (unverarbeitet),
+,Texteingaben des Users (unverarbeitet),,

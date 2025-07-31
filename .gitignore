@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+log/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage.*
+
+# Frontend
+node_modules/
+dist/
+build/
+*.map
+.cache/
+
+# Uploads & Media
+uploads/
+media/
+static/uploads/
+
+# Backups
+*.bak
+*.backup
+backups/
+
+# Local development
+local_settings.py
+instance/
+.webassets-cache
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# pyenv
+.python-version
+
+# Alembic
+alembic.ini.local
+zen-mcp-server/
